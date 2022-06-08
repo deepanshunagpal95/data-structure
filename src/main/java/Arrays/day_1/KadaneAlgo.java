@@ -1,5 +1,7 @@
 package Arrays.day_1;
 
+import java.util.Queue;
+
 public class KadaneAlgo {
 
     public static void main(String[] args) {
@@ -36,6 +38,7 @@ public class KadaneAlgo {
         }
         return max;
 }
+//cant handle All negative array
     public static int kadane(int[] arr){
 
         int max_sum = Integer.MIN_VALUE;

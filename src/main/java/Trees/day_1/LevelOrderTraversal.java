@@ -19,7 +19,9 @@ public class LevelOrderTraversal {
 
     public static void main(String[] args) {
         BinaryTree tree = TreeUtil.buildBinaryTree();
-        levelOrderTraversal(tree.root);
+        BinaryTree binaryTree = TreeUtil.binaryTreeTwo();
+        //levelOrderTraversal(tree.root);
+        levelOrderTraversal(binaryTree.root);
     }
     public static void levelOrderTraversal(Node root) {
         if (root == null) {
