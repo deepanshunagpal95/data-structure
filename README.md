@@ -16,7 +16,7 @@ Arrays
 12. [find common elements In 3 sorted arrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
 13. [Factorial](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 14. [Max Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
-15 [Subarray Sum equal To 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
+15. [Subarray Sum equal To 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
 16. [Longest Consecutive Subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
 17. [Elements greater than n/k times](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
 18. [Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
