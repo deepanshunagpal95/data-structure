@@ -1,4 +1,4 @@
-package day_6;
+package Arrays.day_6;
 
 import util.ArrayUtil;
 
