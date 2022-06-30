@@ -42,12 +42,13 @@ Recursions
 Binary Trees:
 1. [Level Order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 2. [Height of Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
-3.
-4.
-5.
-6.
-7.
-8.
+3. [Diameter] (https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+4. [Mirror] (https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
+5. 
+6. [Right view](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+7. [Reverse level order] (https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+8. [left View of Binary Tree] (https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+9.
 9.
 10.
 11.

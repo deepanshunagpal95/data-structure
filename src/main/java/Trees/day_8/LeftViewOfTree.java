@@ -1,4 +1,4 @@
-package Trees.day_2;
+package Trees.day_8;
 
 import Trees.dto.BinaryTree;
 import Trees.dto.Node;
