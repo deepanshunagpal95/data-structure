@@ -49,8 +49,7 @@ Binary Trees:
 7. [Reverse level order] (https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 8. [left View of Binary Tree] (https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 9. [Top view of tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
-9.
-10.
+10. [Bottom View of tree] (https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 11.
 12.
 13.
