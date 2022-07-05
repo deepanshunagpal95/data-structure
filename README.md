@@ -42,20 +42,20 @@ Recursions
 Binary Trees:
 1. [Level Order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 2. [Height of Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
-3. [Diameter] (https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
-4. [Mirror] (https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
+3. [Diameter](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+4. [Mirror](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
 5. 
 6. [Right view](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
-7. [Reverse level order] (https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
-8. [left View of Binary Tree] (https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+7. [Reverse level order](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+8. [left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 9. [Top view of tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
-10. [Bottom View of tree] (https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
-11.
+10. [Bottom View of tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+11. 
 12.
 13.
 14.
-15.
-16.
+15. [Diagnol Traversal of tree](https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/)
+16. [Boundary Level Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 17.
 18.
 19.

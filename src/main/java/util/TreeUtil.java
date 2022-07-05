@@ -42,6 +42,20 @@ public class TreeUtil {
         return tree;
     }
 
+    public static BinaryTree binaryTreeThree(){
+        BinaryTree tree = new BinaryTree();
+        tree.root = new Node(8);
+        tree.root.left = new Node(3);
+        tree.root.right = new Node(10);
+        tree.root.left.left = new Node(1);
+        tree.root.left.right = new Node(6);
+        tree.root.right.right = new Node(14);
+        tree.root.right.right.left = new Node(13);
+        tree.root.left.right.left = new Node(4);
+        tree.root.left.right.right = new Node(7);
+        return tree;
+    }
+
     public static int height(Node node) {
         if (node == null) {
             return 0;
